@@ -159,7 +159,7 @@ validation with 5 splits. Accuracy and F1 score were used to evaluate
 the initial run.
 
 ![Text Description automatically
-generated](media/image1.png)
+generated](./media/image1.png)
 
 The results showed no over fitting from the models. The results from the
 clustered and non-clustered data were essentially the same, so the
@@ -176,14 +176,14 @@ of estimators, the max features and the minimum sample split. The
 Logistic Regression model tuned the vales of C.
 
 ![Text Description automatically
-generated](media/image2.png)
+generated](./media/image2.png)
 
 ![Text Description automatically
-generated](media/image3.png)
+generated](./media/image3.png)
 
 **Model Comparison (summary table)**
 
-![](media/image4.png)
+![](./media/image4.png)
 
 The optimizations did not improve the accuracy or the f1 score
 significantly. Also, the Random Forest and Logistic Regression performed
